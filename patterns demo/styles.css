@@ -1,0 +1,15 @@
+#leftside, #rightside{
+    height: 100vh;
+    width: 100%;
+    padding: 15px;
+}
+.highlight:hover{
+    background-color: yellow;
+}
+
+#preview{
+    visibility: visible;
+}
+#preview:hover{
+    visibility: visible;
+}
